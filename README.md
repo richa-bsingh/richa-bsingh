@@ -34,6 +34,11 @@
 - 🎨 **Fun Fact:** I love exploring data visualization libraries and frameworks—Plotly, Tableau, and Three.js are my favorites for turning data into art!
 
 ---
+### 🐍 Contribution Snake
+**A fun, static version of the GitHub contribution snake:**
+
+![GitHub Contribution Snake](./github-contribution-snake.svg)
+---
 
 ### 🔥 GitHub Stats
 
