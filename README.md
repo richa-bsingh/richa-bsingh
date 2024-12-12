@@ -1,6 +1,6 @@
 <!-- Fancy Name Heading (using Unicode characters for a styled look) -->
 <h1 align="center"> 
-  Hello t𝚑𝚎𝚛𝚎, I'𝚖 𝚁𝚒𝚌𝚑𝚊 𝚂ingh 👋
+  Hello there, I'm Richa Singh 👋
 </h1>
 
 <p align="center">
