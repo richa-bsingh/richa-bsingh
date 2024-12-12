@@ -37,7 +37,7 @@
 ### 🐍 Contribution Snake
 **A fun, static version of the GitHub contribution snake:**
 
-![GitHub Contribution Snake](./github-contribution-snake.svg)
+![GitHub Snake](./github-contribution-grid-snake.svg)
 ---
 
 ### 🔥 GitHub Stats
